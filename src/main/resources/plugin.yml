@@ -1,0 +1,12 @@
+name: Hide
+version: '${project.version}'
+main: org.hide.Hide
+api-version: 1.19
+
+commands:
+  hide:
+    usage: /<command>
+  ahide:
+    usage: /<command>
+  areload:
+    usage: /<command>
