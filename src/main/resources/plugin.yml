@@ -1,7 +1,7 @@
 name: Hide
 version: '${project.version}'
 main: org.hide.Hide
-api-version: 1.19
+api-version: 1.13
 
 commands:
   hide:
